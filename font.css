@@ -3,6 +3,7 @@
     src:
         url("https://raw.githubusercontent.com/fafikmaly/kornucopia-pl-font/main/KornucopiaPL.woff2") format("woff2"),
         url("https://raw.githubusercontent.com/fafikmaly/kornucopia-pl-font/main/KornucopiaPL.woff") format("woff");
+        url("https://raw.githubusercontent.com/fafikmaly/kornucopia-pl-font/main/KornucopiaPL.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
 }
